@@ -5,7 +5,7 @@ Olá! Bem-vindo ao calculador de distâncias, você só precisará de dois ceps 
 ## 🌍 Como utilizar
 
 * **Acesse a url**: https://idanxavier.github.io/distance-calculator/
-* Você precisará de dois cpfs, insira-os no website e aperta o botão de calcular! É rapido e fácil.
+* Você precisará de dois ceps, insira-os no website e aperta o botão de calcular! É rapido e fácil.
 
 ## 🛠️ Construído com
 
